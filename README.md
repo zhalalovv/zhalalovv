@@ -25,7 +25,7 @@
 
 ## Связаться со мной
 
-<p align="center">
+<p>
   <a href="https://vk.com/zhalalovvv" target="_blank">
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте" />
   </a>
