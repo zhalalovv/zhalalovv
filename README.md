@@ -39,6 +39,6 @@
 
 ## Счетчик просмотров профиля
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=zhalalovv&style=for-the-badge&color=brightgreen" alt="счетчик просмотров профиля" />
 </p>
