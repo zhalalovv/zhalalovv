@@ -40,5 +40,5 @@
 ## Счетчик просмотров профиля
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen" alt="счетчик просмотров профиля" />
+  <img src="https://komarev.com/ghpvc/?username=zhalalovv&style=for-the-badge&color=brightgreen" alt="счетчик просмотров профиля" />
 </p>
